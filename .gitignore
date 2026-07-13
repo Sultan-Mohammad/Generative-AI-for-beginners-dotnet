@@ -411,3 +411,6 @@ FodyWeavers.xsd
 # IDE / build cache
 *.lscache
 .copilot/skills/
+
+# .NET file-based app (dotnet run app.cs) discovery cache
+/dotnet/
